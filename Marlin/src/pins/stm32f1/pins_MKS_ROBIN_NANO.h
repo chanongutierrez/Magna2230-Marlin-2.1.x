@@ -51,4 +51,5 @@
   #define MT_DET_1_PIN PA4
   #define MT_DET_2_PIN PE6
   #define MT_DET_PIN_INVERTING false
+  #define SERVO0_PIN PA8
 #endif
